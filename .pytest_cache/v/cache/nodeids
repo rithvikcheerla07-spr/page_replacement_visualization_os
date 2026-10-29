@@ -1,0 +1,19 @@
+[
+  "page-replacement-visualizer/tests/test_algorithms.py::TestAlgorithmMechanics::test_fifo_hit_does_not_alter_insertion_order",
+  "page-replacement-visualizer/tests/test_algorithms.py::TestAlgorithmMechanics::test_frame_capacity_is_never_exceeded",
+  "page-replacement-visualizer/tests/test_algorithms.py::TestAlgorithmMechanics::test_hits_never_evict",
+  "page-replacement-visualizer/tests/test_algorithms.py::TestAlgorithmMechanics::test_lru_hit_updates_recency",
+  "page-replacement-visualizer/tests/test_algorithms.py::TestAlgorithmMechanics::test_optimal_eviction_decision",
+  "page-replacement-visualizer/tests/test_algorithms.py::TestAlgorithmMechanics::test_step_ordering_and_requests",
+  "page-replacement-visualizer/tests/test_algorithms.py::TestComparisonAndAnalysis::test_beladys_anomaly_demonstration",
+  "page-replacement-visualizer/tests/test_algorithms.py::TestComparisonAndAnalysis::test_compare_algorithms",
+  "page-replacement-visualizer/tests/test_algorithms.py::TestEdgeCasesAndValidation::test_empty_reference_string",
+  "page-replacement-visualizer/tests/test_algorithms.py::TestEdgeCasesAndValidation::test_invalid_frame_counts",
+  "page-replacement-visualizer/tests/test_algorithms.py::TestEdgeCasesAndValidation::test_invalid_reference_string_elements",
+  "page-replacement-visualizer/tests/test_algorithms.py::TestEdgeCasesAndValidation::test_run_algorithm_dispatcher",
+  "page-replacement-visualizer/tests/test_algorithms.py::TestEdgeCasesAndValidation::test_single_frame",
+  "page-replacement-visualizer/tests/test_algorithms.py::TestEdgeCasesAndValidation::test_single_page_repeated",
+  "page-replacement-visualizer/tests/test_algorithms.py::TestStandardExample::test_fifo_standard",
+  "page-replacement-visualizer/tests/test_algorithms.py::TestStandardExample::test_lru_standard",
+  "page-replacement-visualizer/tests/test_algorithms.py::TestStandardExample::test_optimal_standard"
+]
